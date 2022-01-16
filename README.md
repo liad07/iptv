@@ -22,6 +22,7 @@
 * exe file support all
 * discord bot support only english name
 * telegram bot support only english name only sport channel
+* * recommend exe file/java v2
 
 
 
