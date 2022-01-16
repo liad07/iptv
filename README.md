@@ -20,8 +20,8 @@
 *  java file v2 support all
 * phyton file support all
 * exe file support all
-* discord bot support only english name
-* telegram bot support only english name only sport channel
+* discord bot support only english name **not always online
+* telegram bot support only english name only sport channel **not always online
 * * recommend exe file/java v2
 
 
