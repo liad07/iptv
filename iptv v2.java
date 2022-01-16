@@ -123,7 +123,7 @@ public class iptv {
             if (tempch.equals("yes")||(tempch.equals("כן"))){
                 chanel="now-14";
             }
-        } |מספר| שם באנגלית | |מספר| שם באנגלית |
+        } 
 
 
                 String str3="";
