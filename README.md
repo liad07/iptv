@@ -1,5 +1,6 @@
 # crack apps iptv-bot
- תעקבו אחר ההוראות עדיף מלכתחילה לכתוב את שם הערוץ באנגלית אבל זה כל הדברים שהבוט יקבל 
+ 
+תעקבו אחר ההוראות עדיף מלכתחילה לכתוב את שם הערוץ באנגלית אבל זה כל הדברים שהבוט יקבל
 
 | מספר | שם באנגלית | שם  | שם עם רווחים | 
 |--|--|--|--|
@@ -15,7 +16,12 @@
 | 56 | sport5plus | ספורט5פלוס | ספורט 5 פלוס |
 | 57 | sport5gold | ספורט5גולד | ספורט 5 גולד |
 | 58 | sport5live | ספורט5לייב | ספורט 5 לייב |
-
+* java file v1 support only english name
+*  java file v2 support all
+* phyton file support all
+* exe file support all
+* discord bot support only english name
+* telegram bot support only english name
 
 
 
