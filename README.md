@@ -19,7 +19,9 @@
 * java file v1 support only english name
 *  java file v2 support all
 * phyton file support all
-* c# file support all
+* c# file support only english and numbers
+* c++ file support only english and numbers
+
 * exe file support all
 * discord bot support only english name | not always online
 * telegram bot support only english name only sport channel | not always online
