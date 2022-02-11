@@ -1,5 +1,7 @@
 # crack apps iptv-bot
  23 of the 365 chalenge in 2022 1 day 1 project
+ <iframe src="https://liad07.github.io/iptv/2" width="80%"></iframe>
+
 
 תעקבו אחר ההוראות עדיף מלכתחילה לכתוב את שם הערוץ באנגלית אבל זה כל הדברים שהבוט יקבל
 
